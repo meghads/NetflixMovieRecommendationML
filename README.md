@@ -55,7 +55,7 @@ This project implements a **Netflix Movie Recommendation System** using the **Ec
    - Navigate to the project directory in your terminal or IDE.
    - Execute the script with the command:
      ```bash
-     python netflix_movie_recommendation.py
+     python netflix_movie_recommendation_ml.py
      ```
 
 5. **View Results**:
